@@ -38,7 +38,6 @@ def userInfo():
             t = False
     return age
 
-age
 
 def TimeTillOld(age):
     TimeTillOH = 100 - int(age)
