@@ -7,8 +7,11 @@
     Extras: 
             Add on to the previous program by asking the user for another number and printing out that many copies of 
             the previous message. (Hint: order of operations exists in Python)
+            
             Print out that many copies of the previous message on separate lines. 
             (Hint: the string "\n is the same as pressing the ENTER button)
+            
+            May or may not do these kinda sounds like they will make the program stupid.
  """
 """Things I want to change in Future Versions: \n
 
@@ -38,8 +41,9 @@ def userInfo():
             t = False
     return age
 
-
 def TimeTillOld(age):
     TimeTillOH = 100 - int(age)
-    print("Since You Are %s It Is Going To Be %d Years Till You Are 100 Years Old" % (age, TimeTillOld()))
-print(TimeTillOld(age))
+    print("Since You Are %s It Is Going To Be %d Years Till You Are 100 Years Old" % (age, TimeTillOH))
+
+
+print(TimeTillOld(userInfo()))
