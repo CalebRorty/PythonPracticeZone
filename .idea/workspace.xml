@@ -208,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.NumbersToWords">
+  <component name="RunManager" selected="Python.ProjectTwo">
     <configuration name="NumbersToWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonPracticeProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -301,9 +301,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ProjectTwo" />
         <item itemvalue="Python.NumbersToWords" />
         <item itemvalue="Python.TestKitchen" />
-        <item itemvalue="Python.ProjectTwo" />
         <item itemvalue="Python.ProjectOne" />
       </list>
     </recent_temporary>

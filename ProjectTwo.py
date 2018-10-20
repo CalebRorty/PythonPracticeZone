@@ -13,8 +13,9 @@ Extras:
 
 def oddOrEven():
     value = input("Please enter a number and we wil see if it is odd or even: ")
-    if isinstance(value, str):
-        return ("This is not a number")
+    value = int(value)
+    if value % 2 == 0:
+        return ("This is Even!")
 
     else:
         return ("This is False!")
