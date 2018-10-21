@@ -20,18 +20,21 @@ Extras:
 """
 
 a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
-
-def lessThan(a): 
+def userInfo():
+    number = input("Please Enter A Number: ")
+    number = int(number)
+    lessThan(a,number)
+def lessThan(a,number):
     lList = []
     gList = []
     for i in a:
-        if i <= 5:
+        if i <= number:
             lList.append(i)
-        elif i > 5:
+        elif i > number:
             gList.append(i)
         else:
             return ("That is all the numbers in the list")
-    print (f'{lList} are all less than 5!')
-    print(f'{gList} are all greater than 5!')
+    print (f'{lList} are all less than {number}!')
+    print(f'{gList} are all greater than {number}!')
 
-print (lessThan(a))
+print (userInfo())
