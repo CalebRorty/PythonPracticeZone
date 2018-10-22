@@ -1,0 +1,87 @@
+"""This File is a notes file for explaining, and learning how file adding, sorting, creation, etc... works inside of python
+   This is being learned from automatetheboringstuff.com/chapter 8"""
+
+"""To Understand this you should have a basic understanding of how file navigation works"""
+
+#This imports the os code which are shortcuts for file navigation inside of python
+import os 
+
+#This is how you can return a string that auto defines the proper file slasher depending on your OS (\windows VS. /for OS X and Linux
+os.path.join('usr', 'bin', 'spam')
+"""Windows would print
+    usr\\bin\\spam (double \\ firt to 'exit' python script second to define '\'
+  OS X and Linux would print
+    user/bin/spam (Only needs one since / doesnt defining enything in python)"""
+
+#This uses a list to create several strings of file navigation based off of the files in the string
+myFiles = ['accounts.txt', 'details.csv', 'invite.docx']
+for filename in myFiles:
+        print(os.path.join('C:\\Users\\asweigart', filename))
+""" Prints C:\Users\asweigart\accounts.txt
+           C:\Users\asweigart\details.csv
+           C:\Users\asweigart\invite.docx """
+
+#Gets current directory you are working in
+os.getcwd()
+#Changes what directory the file you are working on is in
+os.chdir()
+
+"""EX: if in c:\\windows\\ThisFile.py
+   
+   os.getcwd() 
+      Prints ("c:\\windows\\ThisFile.py")
+   while
+   os.chdir('c:\\windows2\\subwindow')
+      Prints("c:\\windows2\\subwindow\\ThisFile.py")
+   NOTE: If the directory you are trying to change to does not exist python will output an error 
+   NOTE2: Modern name for directory is folder, but folder really referes to directory """
+   
+#Creating Folders In Python
+os.makedirs('c:\\delicious\\walnut\\waffles')
+"""This will create any folder(directory) necessary to ensure that the path being creatde is confirmed
+   EX:  
+      if c:\\delicious already exists, then it will create \\walnut\\waffles to ensure that path exists """
+      
+#OS.PATH module contains many helpful functions related to filenames and file paths.
+   we've already used os.path.join() to ensure our file directorys are using the correct divider for out sysyem
+   for full info on os.path see https://docs.python.org/3/library/os.path.html """
+  
+"""For quick explanation of relative , and absolute file paths see figure 8.2(chapter 8)
+
+#OS.PATH FUNCTIONS - 
+os.path.abspath(path) 
+"""This returns the absolute path of a file'
+   EX: path = 'c:\\windows\\folder1\\folder2\\path.txt'
+      os.path.abspath(path)
+         returns ('c:\\windows\\folder1\\folder2\\path.txt')
+      os.path.isabs(path)
+         returns True """
+#Prints string of everything after last slash
+os.path.basename() 
+
+#prints everything before last slash
+os.path.dirname()
+
+#Prints basename and dirname together in a tuple
+os.path.split()
+
+#You can also create tuple by creating tuple of request
+(os.path.dirname(), os.path.basename)
+   but os.path.split() is generally a quicker soltion of you need those in a tuple
+
+#creates tuple with every directory being its own string
+os.path.sep()
+   filePath = c:\\windows\\folder1\\folder2\\path.txt
+   EX: 
+      filePath.split(os.path.sep)
+         returns ('c', 'windows', 'folder1', 'folder2', 'path.txt')
+         
+#returns file size in bytes (dividing by 1000 would give you next step up in file name b>mb>gb>tb>etc...)
+os.path.getsize(filePath)
+    returns 123214 (RANDOM EXAMPLE SIZE IN BYTES)
+
+
+
+
+
+
