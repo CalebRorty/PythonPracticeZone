@@ -4,12 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/TestKitchen.py" line="21" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4e2166d-f5fb-49a2-a40e-375393800635" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RemoveVowels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonPyGameLearning.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonPyGameLearning.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestKitchen.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestKitchen.py" afterDir="false" />
-    </list>
+    <list default="true" id="c4e2166d-f5fb-49a2-a40e-375393800635" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +45,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="ATBSChapter8" value="1" />
           <entry key="Just Some Thoughts" value="1" />
           <entry key="JustSomeThoughts" value="1" />
           <entry key="md" value="2" />
@@ -59,7 +55,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
           <entry key="Python" value="8" />
         </counts>
       </usages-collector>
@@ -394,7 +390,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.10651828" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.10651828" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -494,6 +490,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ATBSChapter8">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/RemoveVowels.py">
       <provider selected="true" editor-type-id="text-editor">
