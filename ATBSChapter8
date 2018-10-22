@@ -82,6 +82,24 @@ os.path.getsize(filePath)
 
 
 
+-----------------FUN STUFF-----------------
 
+FILE READING/WRITING (ONLY RELATES TO PLAINTEXT NO FONT/COLOR/SIZE)
+
+
+#Three Steps to read/write file using python
+
+open() -Returns a file
+read() or write() -self explanitory
+close() -Closes a file
+
+   Some examples:
+      EX of Open>Read:
+         #hello.text has 'Hello World!' written in it
+         helloFile = open('C:\\Users\\your_home_folder\\hello.txt')
+         helloContent = hellowFile.read()
+            returns 'Hello World!'
+            
+            readlines() does the same thing but if there is seperate lines in the file it will print as such
 
 
