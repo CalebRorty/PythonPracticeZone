@@ -20,4 +20,3 @@ def vowelRemove(string):
                 string = string.replace(letter,'')
 
     print (f'If we remove all of the vowels we are left with "{string}"')
-print(vowelRemove(userInfo()))
