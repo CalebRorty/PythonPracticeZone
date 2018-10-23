@@ -22,3 +22,8 @@ def invert(lst):
             retLst.append(abs(i))
     return retLst
 print (invert(lst))
+
+text = i in a and i not in c)
+c.append(i) if text 
+
+INLINE STATEMENT FIGURE OUT
