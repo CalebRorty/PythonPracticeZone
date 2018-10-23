@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/TestKitchen.py" line="21" mnemonic="9" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4e2166d-f5fb-49a2-a40e-375393800635" name="Default Changelist" comment="" />
+    <list default="true" id="c4e2166d-f5fb-49a2-a40e-375393800635" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/FromScratchProjects/NumbersToWords.py" beforeDir="false" afterPath="$PROJECT_DIR$/FromScratchProjects/NumbersToWords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestKitchen.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestKitchen.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
     <session id="-659707516">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
@@ -49,14 +49,14 @@
           <entry key="Just Some Thoughts" value="1" />
           <entry key="JustSomeThoughts" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="9" />
+          <entry key="py" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="9" />
+          <entry key="Python" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -64,14 +64,14 @@
           <entry key="JustSomeThoughts" value="566" />
           <entry key="dummy" value="20" />
           <entry key="md" value="471" />
-          <entry key="py" value="10087" />
+          <entry key="py" value="10818" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="471" />
           <entry key="PLAIN_TEXT" value="586" />
-          <entry key="Python" value="10087" />
+          <entry key="Python" value="10818" />
         </counts>
       </usages-collector>
     </session>
@@ -81,18 +81,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestKitchen.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" selection-end-line="22" selection-end-column="30" />
+            <state relative-caret-position="81">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               <folding>
-                <marker date="1540246837195" expanded="true" signature="188:301" ph="..." />
+                <marker date="1540251159371" expanded="true" signature="167:168" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FromScratchProjects/RemoveVowels.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/FromScratchProjects/NumbersToWords.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" selection-start-line="6" selection-end-line="45" selection-end-column="17" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -137,16 +141,18 @@
         <option value="$PROJECT_DIR$/PyGame.py" />
         <option value="$PROJECT_DIR$/PythonWindowLearning.py" />
         <option value="$PROJECT_DIR$/PythonPyGameLearning.py" />
-        <option value="$PROJECT_DIR$/TestKitchen.py" />
         <option value="$PROJECT_DIR$/RemoveVowels.py" />
+        <option value="$PROJECT_DIR$/FromScratchProjects/RemoveVowels.py" />
+        <option value="$PROJECT_DIR$/TestKitchen.py" />
+        <option value="$PROJECT_DIR$/FromScratchProjects/NumbersToWords.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="262" />
-    <option name="width" value="1296" />
-    <option name="height" value="1000" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -189,7 +195,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RemoveVowels">
+  <component name="RunManager" selected="Python.NumbersToWords">
+    <configuration name="NumbersToWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonPracticeProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FromScratchProjects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FromScratchProjects/NumbersToWords.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="PyGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonPracticeProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -274,41 +301,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="snake" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonPracticeProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonSnakeGame/2158089" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PythonSnakeGame/2158089/snake.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.TestKitchen" />
-      <item itemvalue="Python.snake" />
       <item itemvalue="Python.PyGame" />
       <item itemvalue="Python.PythonPyGameLearning" />
       <item itemvalue="Python.RemoveVowels" />
+      <item itemvalue="Python.NumbersToWords" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.RemoveVowels" />
+        <item itemvalue="Python.NumbersToWords" />
         <item itemvalue="Python.TestKitchen" />
+        <item itemvalue="Python.RemoveVowels" />
         <item itemvalue="Python.PythonPyGameLearning" />
         <item itemvalue="Python.PyGame" />
-        <item itemvalue="Python.snake" />
       </list>
     </recent_temporary>
   </component>
@@ -326,11 +332,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="262" width="1296" height="1000" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.10651828" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.07060063" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -338,8 +344,8 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" auto_hide="true" x="1920" y="293" width="1280" height="961" id="Run" order="6" type="WINDOWED" weight="0.26898047" />
-      <window_info anchor="bottom" id="Debug" order="7" visible="true" weight="0.1778291" />
+      <window_info anchor="bottom" auto_hide="true" x="981" y="265" width="704" height="410" id="Run" order="6" type="WINDOWED" weight="0.26898047" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.1670282" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -424,18 +430,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/FromScratchProjects/RemoveVowels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="56" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TestKitchen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" selection-end-line="22" selection-end-column="30" />
+        <state relative-caret-position="81">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           <folding>
-            <marker date="1540246837195" expanded="true" signature="188:301" ph="..." />
+            <marker date="1540251159371" expanded="true" signature="167:168" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FromScratchProjects/RemoveVowels.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/FromScratchProjects/NumbersToWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="45" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
