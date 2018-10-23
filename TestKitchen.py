@@ -21,3 +21,23 @@ def vowelRemove(string):
 
     print (f'If we remove all of the vowels we are left with "{string}"')
 print(vowelRemove(userInfo()))
+
+
+list = [160, 3, 1719, 19, 11, 13, -21]
+
+def oddOrEven(number):
+    listOdd = []
+    listEven = []
+    for i in number:
+        if i % 2 == 0:
+            listEven.append(i)
+        else:
+            listOdd.append(i)
+            
+    if len(listEven) < 2:
+        return listEven.pop()
+    else:
+
+        return list.pop()
+    
+print (oddOrEven(list))
