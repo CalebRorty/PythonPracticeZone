@@ -1,0 +1,7 @@
+userNumber = 222
+
+for i in range(1,(userNumber+1)):
+    number = userNumber % i
+    if number == 0:
+        print (i)
+        
