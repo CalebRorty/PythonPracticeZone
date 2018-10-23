@@ -1,0 +1,29 @@
+userNumber = 222
+
+divisorList = []
+
+for i in range(1,(userNumber+1)):
+    number = userNumber % i
+    if number == 0:
+        divisorList.append(number)
+        
+print(divisorList)
+
+lst = [1,2,3,4,5,-5,-7,-2,-1,1,4,5,3]
+
+def invert(lst):
+    retLst = []
+    for i in lst:
+        if i > 0:
+            nI = '-'+ str(i)
+            nII = int(nI)
+            retLst.append(nII)
+        else:
+            retLst.append(abs(i))
+    return retLst
+print (invert(lst))
+
+text = i in a and i not in c)
+c.append(i) if text 
+
+INLINE STATEMENT FIGURE OUT
