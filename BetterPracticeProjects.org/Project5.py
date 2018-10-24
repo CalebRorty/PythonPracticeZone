@@ -17,3 +17,12 @@ c = []
 [(c.append(x)) for x in a if x in b if x not in c]
 
 print (c)
+
+"""----------Another Version--------"""
+import random
+ 
+a = random.sample(range(1,30), 12)
+b = random.sample(range(1,30), 16)
+result = []
+result = [i for i in a if i in b if i not in result]
+print (result)
