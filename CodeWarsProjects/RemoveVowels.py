@@ -1,6 +1,7 @@
 """This is a program that asks for a sentence, and removes
    all of the vowels (excluding y) from said sentence"""
 
+
 vowels = ['a','e','i','o','u']
 
 
@@ -16,7 +17,10 @@ def vowelRemove(string):
         letter = (string[(i-1):i])
         for iV in vowels:
             if iV == letter:
-                print (letter)
                 string = string.replace(letter,'')
+    print("Computing...")
 
-    print (f'If we remove all of the vowels we are left with "{string}"')
+
+    return (f'If we remove all of the vowels we are left with "{string}"')
+
+print (vowelRemove(userInfo()))

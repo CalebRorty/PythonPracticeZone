@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4e2166d-f5fb-49a2-a40e-375393800635" name="Default Changelist" comment="" />
+    <list default="true" id="c4e2166d-f5fb-49a2-a40e-375393800635" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWarsProjects/RemoveVowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWarsProjects/RemoveVowels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FromScratchProjects/NumbersToWords.py" beforeDir="false" afterPath="$PROJECT_DIR$/FromScratchProjects/NumbersToWords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestKitchen.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestKitchen.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,35 +77,66 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1050754793">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="5" />
+          <entry key="TicTacToe" value="270" />
+          <entry key="py" value="7531" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="7806" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BetterPracticeProjects.org/Project1.py">
+        <entry file="file://$PROJECT_DIR$/The Self Taught Programmer/TicTacToe.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+            <state relative-caret-position="352">
+              <caret line="52" column="23" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+              <folding>
+                <marker date="1542740826549" expanded="true" signature="46:47" ph="..." />
+                <marker date="1542740826549" expanded="true" signature="227:314" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BetterPracticeProjects.org/Project6.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BetterPracticeProjects.org/Project7.py">
+        <entry file="file://$PROJECT_DIR$/The Self Taught Programmer/MathBaseBall.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state>
+              <caret selection-end-line="8" selection-end-column="12" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BetterPracticeProjects.org/Project8.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -135,24 +171,29 @@
         <option value="$PROJECT_DIR$/PythonPyGameLearning.py" />
         <option value="$PROJECT_DIR$/RemoveVowels.py" />
         <option value="$PROJECT_DIR$/FromScratchProjects/RemoveVowels.py" />
+        <option value="$PROJECT_DIR$/BetterPracticeProjects.org/Project1.py" />
+        <option value="$PROJECT_DIR$/CodeWarsProjects/RemoveVowels.py" />
+        <option value="$PROJECT_DIR$/TestKitchen2.py" />
         <option value="$PROJECT_DIR$/TestKitchen.py" />
         <option value="$PROJECT_DIR$/FromScratchProjects/NumbersToWords.py" />
-        <option value="$PROJECT_DIR$/BetterPracticeProjects.org/Project1.py" />
+        <option value="$PROJECT_DIR$/The Self Taught Programmer/HisHangman.py" />
+        <option value="$PROJECT_DIR$/The Self Taught Programmer/Hangman.py" />
+        <option value="$PROJECT_DIR$/The Self Taught Programmer/MathBaseBall.py" />
+        <option value="$PROJECT_DIR$/The Self Taught Programmer/TicTacToe.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1280" />
+    <option name="y" value="-257" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,18 +201,15 @@
               <item name="PythonPracticeZone" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonPracticeZone" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PythonPracticeZone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonPracticeZone" type="462c0819:PsiDirectoryNode" />
-              <item name="BetterPracticeProjects.org" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/calebr/Documents/Github/PythonPracticeZone/The Self Taught Programmer/MathBaseBall.py" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -188,8 +226,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.NumbersToWords">
-    <configuration name="NumbersToWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.TicTacToe">
+    <configuration name="Hangman" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonPracticeProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,11 +235,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FromScratchProjects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Self Taught Programmer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FromScratchProjects/NumbersToWords.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Self Taught Programmer/Hangman.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,7 +248,49 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PyGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="HisHangman" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonPracticeProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Self Taught Programmer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Self Taught Programmer/HisHangman.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MathBaseBall" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonPracticeProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Self Taught Programmer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Self Taught Programmer/MathBaseBall.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestKitchen2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonPracticeProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -222,7 +302,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyGame.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestKitchen2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,63 +311,18 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PythonPyGameLearning" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TicTacToe" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonPracticeProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Self Taught Programmer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonPyGameLearning.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Self Taught Programmer/TicTacToe.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="RemoveVowels" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonPracticeProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FromScratchProjects" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FromScratchProjects/RemoveVowels.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestKitchen" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonPracticeProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestKitchen.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -295,19 +330,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.TestKitchen" />
-      <item itemvalue="Python.PyGame" />
-      <item itemvalue="Python.PythonPyGameLearning" />
-      <item itemvalue="Python.RemoveVowels" />
-      <item itemvalue="Python.NumbersToWords" />
+      <item itemvalue="Python.TestKitchen2" />
+      <item itemvalue="Python.HisHangman" />
+      <item itemvalue="Python.TicTacToe" />
+      <item itemvalue="Python.Hangman" />
+      <item itemvalue="Python.MathBaseBall" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.NumbersToWords" />
-        <item itemvalue="Python.TestKitchen" />
-        <item itemvalue="Python.RemoveVowels" />
-        <item itemvalue="Python.PythonPyGameLearning" />
-        <item itemvalue="Python.PyGame" />
+        <item itemvalue="Python.TicTacToe" />
+        <item itemvalue="Python.MathBaseBall" />
+        <item itemvalue="Python.Hangman" />
+        <item itemvalue="Python.HisHangman" />
+        <item itemvalue="Python.TicTacToe" />
       </list>
     </recent_temporary>
   </component>
@@ -325,20 +360,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="1280" y="-257" width="1920" height="1057" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.07060063" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.07740916" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32899022" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="2" />
+      <window_info anchor="bottom" auto_hide="true" x="1637" y="321" width="1347" height="479" id="Python Console" order="2" weight="0.39481866" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" auto_hide="true" x="981" y="265" width="704" height="410" id="Run" order="6" type="WINDOWED" weight="0.26898047" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.1670282" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.32953367" />
+      <window_info anchor="bottom" auto_hide="true" x="1280" y="-235" width="1920" height="964" id="Run" internal_type="WINDOWED" order="6" type="WINDOWED" weight="0.26898047" />
+      <window_info anchor="bottom" id="Debug" order="7" visible="true" weight="0.32227978" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -350,16 +384,21 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     <entry file="file://$PROJECT_DIR$/Just Some Thoughts" />
-    <entry file="file://$PROJECT_DIR$/../PythonSnakeGame/2158089/snake.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../PythonSnakeGame/2158089/snake.py" />
     <entry file="file://$PROJECT_DIR$/PyGame.py" />
     <entry file="file://$PROJECT_DIR$/ProjectOne.py" />
     <entry file="file://$PROJECT_DIR$/ProjectTwo.py" />
@@ -370,47 +409,97 @@
     <entry file="file://$PROJECT_DIR$/ATBSChapter8" />
     <entry file="file://$PROJECT_DIR$/RemoveVowels.py" />
     <entry file="file://$PROJECT_DIR$/FromScratchProjects/RemoveVowels.py" />
-    <entry file="file://$PROJECT_DIR$/FromScratchProjects/NumbersToWords.py">
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/BetterPracticeProjects.org/Project1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" selection-start-line="6" selection-end-line="45" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestKitchen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="81">
-            <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
+        <state relative-caret-position="75">
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BetterPracticeProjects.org/Project7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BetterPracticeProjects.org/Project8.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BetterPracticeProjects.org/Project6.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BetterPracticeProjects.org/Project1.py">
+    <entry file="file://$PROJECT_DIR$/TestKitchen2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+        <state relative-caret-position="105">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestKitchen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="65" selection-start-column="65" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWarsProjects/RemoveVowels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FromScratchProjects/NumbersToWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/The Self Taught Programmer/Hangman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="18" selection-end-column="44" />
+          <folding>
+            <element signature="e#25#296#0" />
+            <element signature="e#707#974#0" />
+            <marker date="1542653941465" expanded="true" signature="420:976" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/The Self Taught Programmer/HisHangman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="23" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/The Self Taught Programmer/MathBaseBall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/The Self Taught Programmer/TicTacToe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="52" column="23" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+          <folding>
+            <marker date="1542740826549" expanded="true" signature="46:47" ph="..." />
+            <marker date="1542740826549" expanded="true" signature="227:314" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

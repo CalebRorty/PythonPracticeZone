@@ -24,7 +24,7 @@ def numberToWord(number):
         number = abs(number)
         nNumber = number // 10
         rNumber = number % 10
-        retStr += ('-' + tens[nNumber] + '-' + ones[rNumber])
+        retStr += ('Negative ' + tens[nNumber] + '-' + ones[rNumber])
 
     elif number < 10:
         retStr += ones[number]
@@ -36,15 +36,11 @@ def numberToWord(number):
         nNumber = number // 10
         rNumber = number % 10
         retStr += tens[nNumber] + '-' + ones[rNumber]
-    elif number >=100:
-        nNumber = number // 10
-        tNumber = nNumber % 10
-        oNumber = nNumber // 10
-        rNumber = number % 10
-        retStr += ones[oNumber] + '-' + 'Hundred' + '-' + tens[tNumber] + '-' + ones[rNumber]
+
 
     return retStr
 
+print (numberToWord(number))
 
 """def userInfo():
     number = input("What number would you like to convert? ")
