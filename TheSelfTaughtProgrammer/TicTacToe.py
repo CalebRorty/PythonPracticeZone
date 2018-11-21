@@ -16,6 +16,7 @@ def move_up(place, whoUp):
         place = int(place)
         #Checks if value is number or not
         if int(place) > 9 or int(place) < 0:
+            #Checks if number is valid move
             print ('That is not move!')
             print('Go Again.')
             whoUp -= 1
@@ -30,6 +31,7 @@ def move_up(place, whoUp):
             whoUp -= 1
         #checks if spot already has
         else:
+            #Places X or O depending on who is up
             if whoUp % 2 == 0:
                 board[place - 1] = 'O'
             else:
@@ -62,10 +64,19 @@ def game(whoUp):
             print_board()
             whoUp += 1
             if whoUp % 2 == 0:
+                #Checks who is up, if even then O's are up
                 print('Player O Won!')
+                break
             else:
                 print('Player X Won!')
-            done = True
+                break
+
+        if board[0-5] != '_' and board[6-8] != ' ':
+            print_board()
+            print ("It's A Tie!")
+            break
+            #Should check for TIE but goes off to soon at certain circumstances
+
 
 
 game(whoUp)
