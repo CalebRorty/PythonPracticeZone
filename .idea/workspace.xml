@@ -93,12 +93,12 @@
         <counts>
           <entry key="Python Console" value="5" />
           <entry key="TicTacToe" value="270" />
-          <entry key="py" value="8368" />
+          <entry key="py" value="8461" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="8643" />
+          <entry key="Python" value="8736" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -118,8 +118,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TheSelfTaughtProgrammer/TicTacToe.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="82" selection-end-column="11" />
+            <state relative-caret-position="91">
+              <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -369,7 +369,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info active="true" anchor="bottom" auto_hide="true" x="1541" y="-27" width="1280" height="706" id="Run" internal_type="WINDOWED" order="10" type="FLOATING" visible="true" weight="0.26898047" />
+      <window_info anchor="bottom" auto_hide="true" x="0" y="23" width="1280" height="706" id="Run" internal_type="WINDOWED" order="10" type="FLOATING" weight="0.26898047" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -466,8 +466,8 @@
     <entry file="file://$PROJECT_DIR$/The Self Taught Programmer/TicTacToe.py" />
     <entry file="file://$PROJECT_DIR$/TheSelfTaughtProgrammer/TicTacToe.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="82" selection-end-column="11" />
+        <state relative-caret-position="91">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
         </state>
       </provider>
     </entry>

@@ -51,15 +51,15 @@ def game(whoUp):
         # WIN Check Code
         if whoUp >= 5:
             if ((board[0] in board[1] and board[0] in board[2] and board[0] != '_') or
-                    (board[3] in board[4] and board[3] in board[5] and board[3] != '_') or
-                    (board[6] in board[7] and board[6] in board[8] and board[6] != ' ') or
+                    (board[3] == board[4] == board[5] and board[3] != '_') or
+                    (board[6] == board[7] == board[8] and board[6] != ' ') or
                     # LEFT - RIGHT Wins
-                    (board[0] in board[3] and board[0] in board[6] and board[0] != '_') or
-                    (board[1] in board[4] and board[1] in board[7] and board[1] != '_') or
-                    (board[2] in board[5] and board[2] in board[8] and board[2] != '_') or
+                    (board[0] == board[3] == board[6] and board[0] != '_') or
+                    (board[1] == board[4] == board[7] and board[1] != '_') or
+                    (board[2] == board[5] == board[8] and board[2] != '_') or
                     # UP - DOWN Wins
-                    (board[0] in board[4] and board[0] in board[8] and board[0] != '_') or
-                    (board[2] in board[4] and board[2] in board[6] and board[2] != '_')):
+                    (board[0] == board[4] == board[8] and board[0] != '_') or
+                    (board[2] == board[4] == board[6] and board[2] != '_')):
                     # DIAG0NALE Wins
 
                 print_board()
@@ -72,7 +72,7 @@ def game(whoUp):
                     print('Player X Won!')
                     break
 
-        if board[0-5] != '_' and board[6-8] != ' ':
+        if '_' not in board[:6] and ' ' not in board[6:]:
             print_board()
             print ("It's A Tie!")
             break
