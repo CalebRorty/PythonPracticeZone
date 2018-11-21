@@ -49,27 +49,28 @@ def game(whoUp):
         whoUp += 1
 
         # WIN Check Code
-        if ((board[0] in board[1] and board[0] in board[2] and board[0] != '_') or
-                (board[3] in board[4] and board[3] in board[5] and board[3] != '_') or
-                (board[6] in board[7] and board[6] in board[8] and board[6] != ' ') or
-                # LEFT - RIGHT Wins
-                (board[0] in board[3] and board[0] in board[6] and board[0] != '_') or
-                (board[1] in board[4] and board[1] in board[7] and board[1] != '_') or
-                (board[2] in board[5] and board[2] in board[8] and board[2] != '_') or
-                # UP - DOWN Wins
-                (board[0] in board[4] and board[0] in board[8] and board[0] != '_') or
-                (board[2] in board[4] and board[2] in board[6] and board[2] != '_')):
-            # DIAG0NALE Wins
+        if whoUp >= 5:
+            if ((board[0] in board[1] and board[0] in board[2] and board[0] != '_') or
+                    (board[3] in board[4] and board[3] in board[5] and board[3] != '_') or
+                    (board[6] in board[7] and board[6] in board[8] and board[6] != ' ') or
+                    # LEFT - RIGHT Wins
+                    (board[0] in board[3] and board[0] in board[6] and board[0] != '_') or
+                    (board[1] in board[4] and board[1] in board[7] and board[1] != '_') or
+                    (board[2] in board[5] and board[2] in board[8] and board[2] != '_') or
+                    # UP - DOWN Wins
+                    (board[0] in board[4] and board[0] in board[8] and board[0] != '_') or
+                    (board[2] in board[4] and board[2] in board[6] and board[2] != '_')):
+                    # DIAG0NALE Wins
 
-            print_board()
-            whoUp += 1
-            if whoUp % 2 == 0:
-                #Checks who is up, if even then O's are up
-                print('Player O Won!')
-                break
-            else:
-                print('Player X Won!')
-                break
+                print_board()
+                whoUp += 1
+                if whoUp % 2 == 0:
+                    #Checks who is up, if even then O's are up
+                    print('Player O Won!')
+                    break
+                else:
+                    print('Player X Won!')
+                    break
 
         if board[0-5] != '_' and board[6-8] != ' ':
             print_board()
